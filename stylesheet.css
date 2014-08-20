@@ -1,5 +1,5 @@
 body {
-    background-color: #D3D3D3;
+    background: rgb(30,30,30);
 }
 .chat {position: fixed;
   right: 0;
